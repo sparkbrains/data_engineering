@@ -20,6 +20,7 @@ This solution automates the process of cloning a production database to a develo
 -----
 
 ### Component Structure
+```
 PRODUCTION_DB
 ├── schemas
     ├── tables
@@ -35,7 +36,7 @@ UTILITY_DB (Control Database)
     ├── backup_script (Parent Task - Every 12 hours)
     ├── data_masking (Child Task - After backup_script)
     └── delete_old_bkups (Child Task - After data_masking)
-
+```
 -----
 ## Key Features ✨
 
