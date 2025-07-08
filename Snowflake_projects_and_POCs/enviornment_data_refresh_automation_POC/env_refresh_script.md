@@ -4,7 +4,6 @@ This document provides a comprehensive overview of the automated environment ref
 
 [Watch the demonstration video here](https://youtu.be/sayayWlLY3M)
 
-[You can refere script here](https://github.com/sparkbrains/data_engineering/blob/main/Snowflake_projects_and_POCs/enviornment_data_refresh_automation_POC/env_refresh_script.md)
 -----
 
 ## Overview
