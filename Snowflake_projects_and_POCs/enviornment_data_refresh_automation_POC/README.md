@@ -1,15 +1,8 @@
-# Snowflake: Environment Refresh Automation
-## Project Documentation 
-
-### Executive Summary
-
-This project successfully addressed critical data freshness issues in one of the client's development environment by implementing an automated zero-copy cloning solution using Snowflake's native capabilities. The solution reduced manual DBA intervention from 6 hours to zero while ensuring data privacy compliance through automated PII sanitization.
-
-[Watch the demonstration video here](https://youtu.be/sayayWlLY3M)
-
 # Environment Refresh and Data Masking Automation for Snowflake
 
 This document provides a comprehensive overview of the automated environment refresh and data masking solution for Snowflake. The system is designed to periodically refresh a development environment from a production source, ensuring that the development database contains up-to-date data while also protecting sensitive information through dynamic data masking.
+
+[Watch the demonstration video here](https://youtu.be/sayayWlLY3M)
 
 -----
 
