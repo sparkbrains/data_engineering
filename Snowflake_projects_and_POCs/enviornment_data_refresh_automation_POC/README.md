@@ -78,26 +78,3 @@ The system operates in a seamless, ordered flow:
 
 -----
 
-### Deployment
-
-To set up the system, simply run the provided SQL script. This will create the `UTILITY_DB`, the two stored procedures, and the three tasks.
-
-### Activating the Automation
-
-To turn the automation on, you must **resume** the tasks. It's best practice to resume them in the reverse order of execution:
-
-```sql
--- Activate the automation
-ALTER TASK UTILITY_DB.PUBLIC.delete_old_bkups RESUME;
-ALTER TASK UTILITY_DB.PUBLIC.data_masking RESUME;
-ALTER TASK UTILITY_DB.PUBLIC.backup_script RESUME;
-```
-
-### Deactivating the Automation
-
-To pause the entire workflow, you only need to **suspend** the root task (`backup_script`), which will prevent the entire chain from running.
-
-```sql
--- Deactivate the automation
-ALTER TASK UTILITY_DB.PUBLIC.backup_script SUSPEND;
-```
