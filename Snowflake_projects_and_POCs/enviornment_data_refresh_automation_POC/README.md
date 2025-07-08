@@ -20,7 +20,6 @@ This solution automates the process of cloning a production database to a develo
 -----
 
 ### Component Structure
-```
 PRODUCTION_DB
 ├── schemas
     ├── tables
