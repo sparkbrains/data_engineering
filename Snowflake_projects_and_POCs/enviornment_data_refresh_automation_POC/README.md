@@ -3,7 +3,7 @@
 This document [(You can refer the full script here)](https://github.com/sparkbrains/data_engineering/blob/main/Snowflake_projects_and_POCs/enviornment_data_refresh_automation_POC/env_refresh_script.md)
 provides a comprehensive overview of the automated environment refresh and data masking solution for Snowflake. The system is designed to periodically refresh a development environment from a production source, ensuring that the development database contains up-to-date data while also protecting sensitive information through dynamic data masking.
 
-[Watch the demonstration video here](https://youtu.be/sayayWlLY3M)
+[Watch the demonstration video here](https://vimeo.com/1100286291?share=copy#t=0)
 
 -----
 
