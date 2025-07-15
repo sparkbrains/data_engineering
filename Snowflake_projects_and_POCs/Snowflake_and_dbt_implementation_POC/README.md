@@ -83,7 +83,7 @@ We implemented the following customer classification logic based on business req
 
 This segmentation enables targeted marketing campaigns and helps the sales team prioritize high-value accounts.
 
-## 🔧 Technical Architecture I Implemented
+## Technical Architecture I Implemented
 
 ### Snowflake Environment Setup
 WE configured the following Snowflake environment for optimal performance:
@@ -182,7 +182,7 @@ My implementation enables analysis of:
 - **Executive Team**: Real-time revenue trend dashboards for strategic decisions
 - **Marketing Team**: Customer segmentation insights for campaign targeting
 
-## 🤝 Development Standards & Contribution
+## Development Standards & Contribution
 
 ### Code Standards I Established
 - Follow dbt style guide for consistent SQL formatting
@@ -199,7 +199,7 @@ My implementation enables analysis of:
 5. Merge to `main` triggers CI/CD pipeline with automated testing
 
 
-## 📋 Project Evolution & Changelog
+##  Project Evolution & Changelog
 
 ### v2.1.0 (Current - My Latest Implementation)
 - **Added**: Year-over-year growth calculations for executive reporting
