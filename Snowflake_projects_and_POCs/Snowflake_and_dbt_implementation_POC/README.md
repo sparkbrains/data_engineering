@@ -162,7 +162,7 @@ I implemented several performance enhancements:
 
 ### Measurable Outcomes
 Since implementing this solution, we've achieved:
-- **95% Reduction in Report Generation Time**: Monthly reports now complete in 15 minutes vs. 3-4 days
+- **95% Reduction in Report Generation Time**: Monthly reports now complete in couple of hours vs. 3-4 days
 - **100% Data Consistency**: All stakeholders now work from the same source of truth
 - **Zero Manual Errors**: Automated calculations eliminated human error
 - **Real-time Insights**: Daily data refreshes enable faster decision-making
