@@ -10,7 +10,7 @@ The project utilizes a combination of **Kafka**, **Kafka Connect**, **Snowflake*
 
 ### Data Sources
 
-* **API**: Hosted on EC2, providing clickstream data in JSON format.
+* **ClickStream API**: Hosted on EC2, providing clickstream data in JSON format.
 * **MySQL Database**: Stores transaction logs.
 
 ###  Data Processing
