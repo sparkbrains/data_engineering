@@ -189,5 +189,3 @@ The `docker-compose.yml` file includes the following services:
 * Streamlined Snowflake loading and transformation
 * Business-ready visualizations in Power BI
 
----
-
