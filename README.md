@@ -12,14 +12,4 @@ A collection of data engineering projects covering various tools, technologies, 
 | **Project 4: Near Real-time API amd MySQL data ingesting pipeline** | Snowflake, Docker, Kafka, Kafka connect, AWS | [View Project](https://github.com/sparkbrains/data_engineering/tree/main/Realtime_kafka_snowflake_ETL)
 
 
-
-## 🛠️ Topics Covered
-
-- ✅ ETL/ELT Pipelines  
-- ✅ Data Warehousing (Snowflake)  
-- ✅ Data Lakes & Lakehouses  
-- ✅ Data Transformation (SQL, spark, dbt)  
-- ✅ Data Quality & Observability  
-
 ---
-
