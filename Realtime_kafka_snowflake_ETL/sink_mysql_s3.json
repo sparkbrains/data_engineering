@@ -1,0 +1,19 @@
+{
+  "name": "s3-sink-my_sql",
+  "config": {
+    "connector.class": "io.confluent.connect.s3.S3SinkConnector",
+    "topics": "temp_sql.sales.orders",
+    "s3.bucket.name": "snowflake-data-practice-bucket",
+    "s3.region": "ap-south-1",
+    "s3.part.size": "5242880",
+    "flush.size": "10",
+    "aws.access.key.id": "AKIASN62VZ5C7NUFJD5B",
+    "aws.secret.access.key": "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",
+    "format.class": "io.confluent.connect.s3.format.json.JsonFormat",
+    "storage.class": "io.confluent.connect.s3.storage.S3Storage",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "value.converter.schemas.enable": "false",    
+    "tasks.max": "1"
+  }
+}

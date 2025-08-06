@@ -1,0 +1,42 @@
+
+{
+  "name": "mysql-source-connector",
+  "config": {
+    "connector.class": "io.debezium.connector.mysql.MySqlConnector",
+    "database.hostname": "host.docker.internal",
+    "database.port": "3306",
+    "database.user": "root",
+    "database.password": "1203",
+    "database.server.id": "184054",
+    "database.server.name": "temp_sql",
+    "database.include.list": "sales",
+    "table.include.list": "sales.orders",
+    "database.history.kafka.bootstrap.servers": "kafka:29092",
+    "database.history.kafka.topic": "schema-changes.mysql",
+    "key.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "key.converter.schemas.enable": "false",
+    "value.converter.schemas.enable": "false",
+    
+    "decimal.handling.mode": "double",
+    "bigint.unsigned.handling.mode": "long",
+    "binary.handling.mode": "bytes",
+    
+    "column.mask.with.12.chars": "sales.orders.discount,sales.orders.price_per_unit,sales.orders.total_amount",
+    
+    "transforms": "unwrap,cast",
+    "transforms.unwrap.type": "io.debezium.transforms.ExtractNewRecordState",
+    "transforms.unwrap.drop.tombstones": "false",
+    
+    "transforms.cast.type": "org.apache.kafka.connect.transforms.Cast$Value",
+    "transforms.cast.spec": "price_per_unit:float64,discount:float64,total_amount:float64",
+    
+    "database.characterEncoding": "UTF-8",
+    "database.connectionCollation": "utf8_general_ci",
+    
+    "include.schema.changes": "false",
+    "provide.transaction.metadata": "false"
+
+
+  }
+}

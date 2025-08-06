@@ -1,0 +1,23 @@
+{
+  "name": "clickstream_api_connector",
+  "config": {
+    "connector.class": "io.confluent.connect.http.HttpSourceConnector",
+    "tasks.max": "1",
+    "confluent.topic.bootstrap.servers": "kafka:29092",
+    "bootstrap.servers": "kafka:29092",
+    "topic.name.pattern": "clickstream-http-data",
+    "url": " http://13.204.63.193:3000/api/clickstream/event",
+    "http.request.method": "GET",
+    "http.offset.mode": "SIMPLE_INCREMENTING",
+    "http.initial.offset": "1",
+    "http.request.headers": "Accept: application/json",
+    "poll.interval.ms": "60000",
+    "key.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "format.class": "io.confluent.connect.s3.format.json.JsonFormat",
+    "value.converter.schemas.enable": "false",
+    "errors.tolerance": "all",
+    "confluent.topic.replication.factor": "1",
+    "confluent.license.topic.replication.factor": "1"
+  }
+}
