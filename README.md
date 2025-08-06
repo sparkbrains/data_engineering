@@ -1,6 +1,6 @@
 # Data Engineering Projects
 
-A collection of data engineering projects covering various tools, technologies, and workflows in the data ecosystem.
+A collection of data engineering projects AND POCs that we've worked on, covering various tools, technologies, and workflows in the data ecosystem.
 
 ## 📁 Projects
 
