@@ -1,0 +1,247 @@
+product_id,product_name,category,sub_category,brand,supplier_id,cost_price,selling_price,weight,dimensions,color,size,launch_date,is_active
+PRD9069,Smartphone,Electronics,Electronics Sub 5,Simon PLC,SUP435,97.9,253.48,5.72,50x57x73,Black,XL,2025-08-03,True
+PRD8343,Smartphone,Electronics,Electronics Sub 4,Wagner-Robbins,SUP687,184.12,120.26,14.12,20x46x74,Gray,S,2024-12-06,True
+PRD5844,Smartphone,Electronics,Electronics Sub 2,"Foster, Oconnor and Monroe",SUP822,36.01,85.83,43.34,46x8x47,White,XL,2024-01-12,True
+PRD4425,Laptop,Electronics,Electronics Sub 1,Beck Inc,SUP977,112.25,307.25,30.71,26x81x96,Green,M,2025-06-19,True
+PRD9553,Laptop,Electronics,Electronics Sub 2,"Chase, Garcia and Marshall",SUP308,299.66,227.72,23.46,67x24x90,Green,L,2024-12-12,True
+PRD2925,Laptop,Electronics,Electronics Sub 3,"Acosta, Taylor and Dawson",SUP998,162.06,422.8,43.36,67x19x18,Brown,S,2025-07-11,True
+PRD6710,Tablet,Electronics,Electronics Sub 3,Williams and Sons,SUP377,160.82,253.48,9.82,18x9x41,White,L,2024-10-10,True
+PRD7564,Tablet,Electronics,Electronics Sub 3,Underwood LLC,SUP983,273.6,30.03,44.78,36x50x55,Blue,XXL,2025-03-12,True
+PRD3159,Tablet,Electronics,Electronics Sub 3,"Price, Contreras and Wells",SUP238,114.68,57.42,25.51,15x55x52,Red,XS,2024-07-15,True
+PRD4832,Tablet,Electronics,Electronics Sub 4,"Hall, Gray and Nunez",SUP430,81.48,12.32,13.96,33x19x31,Red,One Size,2024-11-21,True
+PRD4234,Tablet,Electronics,Electronics Sub 4,Shields Inc,SUP967,171.39,257.05,40.21,20x49x84,Green,One Size,2024-06-09,True
+PRD2563,Headphones,Electronics,Electronics Sub 2,"Rogers, Evans and Davila",SUP676,149.77,308.41,26.04,62x78x49,White,L,2024-03-26,True
+PRD1313,Headphones,Electronics,Electronics Sub 3,Carey Inc,SUP445,53.73,35.09,42.19,47x8x97,Green,XL,2024-04-08,True
+PRD1834,Headphones,Electronics,Electronics Sub 1,Shea-Rodriguez,SUP971,241.26,189.25,26.36,36x16x17,Gray,XXL,2023-10-20,True
+PRD7993,Headphones,Electronics,Electronics Sub 1,Palmer-Mcdowell,SUP724,22.23,42.78,46.91,89x72x98,Green,XXL,2025-07-03,True
+PRD1998,Headphones,Electronics,Electronics Sub 1,"Browning, Kramer and Hardin",SUP799,13.18,231.43,33.04,48x43x57,Brown,XL,2025-07-28,True
+PRD4610,Headphones,Electronics,Electronics Sub 2,Juarez Ltd,SUP605,252.05,445.08,0.77,5x84x60,Brown,M,2024-01-16,True
+PRD8812,Headphones,Electronics,Electronics Sub 3,"Kim, Keller and Dean",SUP107,171.93,300.4,35.72,71x49x54,Green,S,2024-07-17,True
+PRD4519,Smart Watch,Electronics,Electronics Sub 4,Norman-Foster,SUP562,222.91,412.34,39.12,47x97x11,White,L,2024-01-12,True
+PRD1080,Smart Watch,Electronics,Electronics Sub 1,Banks Ltd,SUP540,54.04,47.9,40.34,58x28x96,Blue,L,2024-07-31,True
+PRD4394,Smart Watch,Electronics,Electronics Sub 3,Herman-Harris,SUP725,24.7,287.51,35.91,22x53x59,Red,XL,2024-09-30,True
+PRD4146,Smart Watch,Electronics,Electronics Sub 5,Farmer-Washington,SUP873,198.27,208.32,45.54,57x21x69,Gray,One Size,2023-12-01,True
+PRD5586,Smart Watch,Electronics,Electronics Sub 4,Love LLC,SUP970,134.17,337.56,32.44,90x26x78,White,XXL,2023-08-17,False
+PRD8151,Camera,Electronics,Electronics Sub 4,Hall-James,SUP745,128.79,487.97,6.85,88x53x26,Green,L,2023-10-08,True
+PRD8383,Camera,Electronics,Electronics Sub 2,Tran-Benjamin,SUP528,286.76,326.09,5.44,91x58x50,Gray,XL,2025-01-21,False
+PRD8507,Camera,Electronics,Electronics Sub 3,"Jimenez, Hernandez and Dyer",SUP155,14.62,399.2,15.24,75x17x84,Red,M,2025-02-19,True
+PRD4842,Camera,Electronics,Electronics Sub 1,"Walker, Goodman and Miller",SUP903,163.94,165.92,34.37,7x26x79,Green,XL,2023-12-31,True
+PRD5988,Camera,Electronics,Electronics Sub 4,"Johnson, Dyer and Morrow",SUP428,283.99,493.98,0.86,33x34x92,Gray,XXL,2024-09-05,True
+PRD6478,Camera,Electronics,Electronics Sub 1,Wise Ltd,SUP609,100.99,495.71,49.7,85x57x15,Green,XS,2023-12-24,True
+PRD7692,Camera,Electronics,Electronics Sub 2,"Maldonado, Johnson and Johnson",SUP469,101.22,178.1,25.95,69x82x8,Red,M,2025-05-09,True
+PRD9267,T-Shirt,Clothing,Clothing Sub 5,Moore PLC,SUP616,228.95,95.75,41.93,14x68x55,Blue,L,2024-06-01,True
+PRD3725,T-Shirt,Clothing,Clothing Sub 3,Buck-Meyer,SUP108,24.65,326.74,23.74,6x93x25,Green,M,2024-09-14,True
+PRD1126,T-Shirt,Clothing,Clothing Sub 3,Hall PLC,SUP605,213.49,454.95,31.18,64x21x100,Blue,L,2025-07-16,True
+PRD5219,T-Shirt,Clothing,Clothing Sub 1,Herrera and Sons,SUP161,119.59,228.88,30.48,6x39x58,Red,XS,2025-03-14,True
+PRD4191,T-Shirt,Clothing,Clothing Sub 3,"Hicks, Fuller and Stanley",SUP359,129.55,236.49,18.11,31x79x84,Red,XS,2023-08-28,True
+PRD2017,Jeans,Clothing,Clothing Sub 2,Williams Inc,SUP148,164.21,29.34,2.66,77x56x84,Red,L,2024-09-17,True
+PRD1524,Jeans,Clothing,Clothing Sub 2,"Fischer, Odom and Glenn",SUP106,267.53,70.78,26.06,42x65x49,Red,L,2025-06-25,True
+PRD4828,Jeans,Clothing,Clothing Sub 2,"Christensen, Butler and Jensen",SUP767,39.08,326.83,20.72,18x49x98,Black,XS,2023-09-29,False
+PRD4546,Jeans,Clothing,Clothing Sub 1,Raymond Group,SUP527,279.92,364.32,46.2,72x37x46,Gray,L,2024-05-09,True
+PRD9103,Jeans,Clothing,Clothing Sub 1,Duke-Hudson,SUP685,52.76,66.72,8.88,84x45x87,Black,XXL,2024-10-03,False
+PRD3970,Dress,Clothing,Clothing Sub 4,Raymond-Cannon,SUP352,87.73,136.36,8.47,78x30x25,Black,L,2024-04-11,True
+PRD1628,Dress,Clothing,Clothing Sub 5,"Myers, Pitts and Rivera",SUP396,113.17,183.02,39.69,97x39x29,Gray,S,2024-02-27,True
+PRD1415,Dress,Clothing,Clothing Sub 3,Reeves PLC,SUP402,243.38,427.12,19.25,9x31x73,Black,XS,2025-08-02,True
+PRD8150,Dress,Clothing,Clothing Sub 5,"Navarro, James and Hawkins",SUP627,247.6,87.18,25.82,98x50x85,Black,One Size,2024-06-20,True
+PRD7348,Dress,Clothing,Clothing Sub 3,Anderson Group,SUP804,91.81,104.93,36.67,58x31x89,Brown,XL,2023-11-30,True
+PRD7440,Dress,Clothing,Clothing Sub 4,Perez-Spencer,SUP156,242.97,431.88,44.7,86x60x31,Red,XXL,2023-12-26,True
+PRD8893,Dress,Clothing,Clothing Sub 3,Bonilla Inc,SUP268,100.44,378.52,22.68,17x21x82,Gray,S,2024-02-22,True
+PRD7264,Dress,Clothing,Clothing Sub 4,"Flores, Lloyd and Mayer",SUP755,147.4,73.2,24.28,42x52x91,White,One Size,2025-03-28,True
+PRD2955,Jacket,Clothing,Clothing Sub 1,"Schmidt, Brown and Travis",SUP887,84.97,436.04,13.51,58x77x34,Brown,XS,2024-08-28,True
+PRD8560,Jacket,Clothing,Clothing Sub 5,"Walker, Mooney and Holland",SUP128,14.92,119.58,28.37,27x100x71,White,One Size,2024-04-14,True
+PRD8804,Jacket,Clothing,Clothing Sub 5,Davis Group,SUP784,52.35,382.13,34.25,6x6x76,Black,M,2025-04-14,True
+PRD8318,Shoes,Clothing,Clothing Sub 2,Williams-Peterson,SUP507,24.3,142.15,21.18,79x10x86,Gray,M,2024-11-19,True
+PRD3335,Shoes,Clothing,Clothing Sub 3,"Williams, Mccarthy and Bishop",SUP889,171.54,290.25,16.05,96x42x33,Black,M,2024-02-04,True
+PRD7712,Shoes,Clothing,Clothing Sub 4,White PLC,SUP573,213.43,280.75,21.24,96x17x25,Brown,XS,2024-09-29,True
+PRD5351,Hat,Clothing,Clothing Sub 5,Parker-Humphrey,SUP679,144.28,406.61,42.4,68x46x40,Black,S,2024-01-09,True
+PRD4847,Hat,Clothing,Clothing Sub 5,Washington Group,SUP809,5.9,233.03,27.42,40x15x18,Black,XS,2023-08-15,True
+PRD2821,Hat,Clothing,Clothing Sub 2,Roberts LLC,SUP154,128.88,165.02,5.92,16x73x83,Brown,M,2025-03-09,True
+PRD4138,Hat,Clothing,Clothing Sub 5,Mason-Garcia,SUP758,81.91,236.78,6.74,37x54x9,Red,S,2025-08-04,True
+PRD7079,Hat,Clothing,Clothing Sub 2,Bean-Collins,SUP409,213.64,192.95,8.94,39x83x68,Green,XL,2023-11-11,True
+PRD4592,Hat,Clothing,Clothing Sub 1,Houston-Bell,SUP129,78.54,357.91,12.4,9x26x78,Blue,XXL,2024-02-12,True
+PRD9089,Hat,Clothing,Clothing Sub 4,"Fisher, Gonzalez and Gregory",SUP525,25.06,37.96,46.42,8x88x39,White,L,2025-03-11,False
+PRD7263,Hat,Clothing,Clothing Sub 5,Miller PLC,SUP885,82.1,143.08,19.02,51x53x93,Brown,M,2025-06-09,False
+PRD8388,Sofa,Home & Garden,Home & Garden Sub 1,"Jackson, Todd and Sanford",SUP123,169.22,146.2,46.5,89x91x27,Green,M,2025-02-11,True
+PRD4912,Sofa,Home & Garden,Home & Garden Sub 3,Martinez-Williams,SUP824,102.28,255.65,39.5,62x13x56,White,M,2023-11-22,True
+PRD6249,Sofa,Home & Garden,Home & Garden Sub 2,"Zavala, Summers and Pacheco",SUP985,154.45,82.15,43.97,95x14x11,White,M,2024-08-20,True
+PRD4082,Sofa,Home & Garden,Home & Garden Sub 5,Walton Ltd,SUP353,219.72,364.72,19.28,20x14x13,Red,XS,2025-03-26,True
+PRD9669,Lamp,Home & Garden,Home & Garden Sub 2,"Price, Mullen and Villegas",SUP285,113.21,255.02,17.51,9x56x70,Red,XS,2023-12-05,True
+PRD4858,Lamp,Home & Garden,Home & Garden Sub 5,Smith PLC,SUP191,103.68,415.8,5.31,20x11x95,Gray,One Size,2024-12-13,True
+PRD2957,Lamp,Home & Garden,Home & Garden Sub 4,Mercado Inc,SUP437,159.17,198.8,20.69,78x63x6,Blue,M,2025-04-12,False
+PRD6895,Lamp,Home & Garden,Home & Garden Sub 5,Lee-Matthews,SUP557,104.69,259.6,23.55,85x87x99,White,XXL,2024-09-20,True
+PRD8223,Plant Pot,Home & Garden,Home & Garden Sub 1,Miller-King,SUP666,277.6,134.46,2.95,19x77x25,Black,XS,2025-08-07,True
+PRD2499,Plant Pot,Home & Garden,Home & Garden Sub 4,"Johnson, Powell and Acosta",SUP416,247.18,281.66,4.6,39x15x62,Black,XS,2025-01-13,True
+PRD9061,Plant Pot,Home & Garden,Home & Garden Sub 2,Cooper PLC,SUP668,110.93,312.48,48.71,53x91x8,Gray,M,2024-07-01,True
+PRD7679,Plant Pot,Home & Garden,Home & Garden Sub 1,Maldonado and Sons,SUP118,176.98,162.75,46.26,91x23x82,Red,XL,2023-12-07,True
+PRD4724,Kitchen Set,Home & Garden,Home & Garden Sub 4,Oliver-Rogers,SUP872,86.1,455.21,19.21,26x47x85,White,XL,2024-01-19,False
+PRD2560,Kitchen Set,Home & Garden,Home & Garden Sub 1,Dixon Ltd,SUP993,119.86,410.45,29.27,16x63x97,Red,XS,2025-06-22,True
+PRD8075,Kitchen Set,Home & Garden,Home & Garden Sub 2,"Ayers, Gates and Johnson",SUP995,164.78,380.04,40.08,20x88x83,Brown,One Size,2025-04-15,True
+PRD8535,Kitchen Set,Home & Garden,Home & Garden Sub 4,Little-Robertson,SUP876,53.4,291.51,47.39,45x8x71,Gray,XXL,2024-04-30,True
+PRD4421,Bed Sheet,Home & Garden,Home & Garden Sub 4,"Evans, Thomas and Navarro",SUP803,174.81,274.2,30.39,75x32x46,Brown,One Size,2024-11-24,True
+PRD3697,Bed Sheet,Home & Garden,Home & Garden Sub 5,Mercado-Steele,SUP244,151.99,130.48,48.35,33x46x84,White,XL,2024-05-02,True
+PRD9148,Bed Sheet,Home & Garden,Home & Garden Sub 2,Watkins-Juarez,SUP878,268.63,163.02,45.32,94x76x49,White,XS,2024-10-27,True
+PRD1049,Bed Sheet,Home & Garden,Home & Garden Sub 1,Black Group,SUP703,37.2,371.21,23.37,57x27x97,White,XL,2025-07-23,True
+PRD4529,Bed Sheet,Home & Garden,Home & Garden Sub 5,Brown-Palmer,SUP158,191.03,159.84,2.1,36x21x69,Black,M,2024-04-28,True
+PRD3228,Bed Sheet,Home & Garden,Home & Garden Sub 1,"Kelly, Hudson and Dillon",SUP360,211.37,105.5,20.94,86x33x79,Green,XS,2024-01-15,True
+PRD8327,Bed Sheet,Home & Garden,Home & Garden Sub 3,Walter Inc,SUP807,118.78,387.33,38.77,86x7x23,Blue,S,2024-11-19,True
+PRD4962,Curtains,Home & Garden,Home & Garden Sub 5,Carlson-Lamb,SUP364,137.56,423.77,24.97,73x60x22,White,XXL,2024-09-20,True
+PRD6866,Curtains,Home & Garden,Home & Garden Sub 1,"Garcia, Miller and Russell",SUP390,27.74,335.65,13.52,15x9x94,White,One Size,2025-08-06,True
+PRD4919,Curtains,Home & Garden,Home & Garden Sub 4,Williams and Sons,SUP264,161.57,438.98,27.2,76x16x19,Black,L,2025-02-13,True
+PRD1608,Curtains,Home & Garden,Home & Garden Sub 1,Coleman-Ford,SUP841,227.31,245.92,19.87,41x14x49,Blue,L,2023-10-30,True
+PRD5787,Curtains,Home & Garden,Home & Garden Sub 3,Morgan-Brown,SUP476,11.2,39.34,13.81,60x18x5,White,S,2023-08-27,True
+PRD6179,Running Shoes,Sports,Sports Sub 3,"Richardson, Wagner and Myers",SUP813,29.81,217.25,30.36,34x69x84,Red,XS,2024-09-01,True
+PRD7283,Running Shoes,Sports,Sports Sub 1,Harmon Group,SUP666,97.86,184.16,12.99,69x32x49,White,L,2025-07-22,True
+PRD9146,Running Shoes,Sports,Sports Sub 3,Simpson-Palmer,SUP119,234.47,295.44,18.38,55x76x44,White,XS,2023-11-13,True
+PRD4696,Running Shoes,Sports,Sports Sub 3,Mitchell-Roberts,SUP853,105.85,252.01,21.09,47x97x22,Blue,One Size,2025-07-02,True
+PRD5700,Running Shoes,Sports,Sports Sub 2,"Anderson, Beck and Cruz",SUP732,181.15,319.5,39.33,44x37x83,Gray,S,2025-02-14,True
+PRD2994,Running Shoes,Sports,Sports Sub 4,"James, Kelley and Martinez",SUP427,16.5,102.2,5.35,95x60x26,Blue,XS,2024-08-28,True
+PRD8300,Running Shoes,Sports,Sports Sub 4,"Powers, Guzman and Moore",SUP151,121.33,81.21,12.92,61x77x13,White,S,2025-06-07,True
+PRD6296,Running Shoes,Sports,Sports Sub 1,Christensen LLC,SUP474,238.64,174.88,44.04,73x86x27,White,One Size,2025-01-12,True
+PRD6247,Yoga Mat,Sports,Sports Sub 3,"Murray, Stephens and Campbell",SUP456,145.7,402.25,0.36,54x85x28,White,XXL,2025-06-05,True
+PRD1992,Yoga Mat,Sports,Sports Sub 4,Turner Inc,SUP993,280.63,119.14,19.5,13x45x26,Green,L,2024-11-08,True
+PRD3659,Yoga Mat,Sports,Sports Sub 5,Padilla and Sons,SUP469,26.28,85.21,38.73,96x92x94,White,XXL,2024-11-26,True
+PRD5341,Dumbbell,Sports,Sports Sub 1,"Brown, Jones and Smith",SUP164,229.72,462.51,14.54,61x15x42,Brown,One Size,2025-07-11,True
+PRD5965,Dumbbell,Sports,Sports Sub 2,"Curry, Riley and Jackson",SUP373,256.51,170.51,20.7,13x87x49,Brown,S,2025-07-14,True
+PRD7179,Dumbbell,Sports,Sports Sub 5,"Curtis, Shepard and Khan",SUP726,140.05,42.32,42.34,89x36x35,Blue,XXL,2024-09-14,True
+PRD8919,Dumbbell,Sports,Sports Sub 2,Arnold and Sons,SUP749,32.05,37.17,6.1,68x83x37,Brown,XS,2023-09-28,True
+PRD2746,Dumbbell,Sports,Sports Sub 5,Johnson-Armstrong,SUP367,121.82,261.63,10.96,49x33x57,Green,XL,2024-07-30,True
+PRD9953,Dumbbell,Sports,Sports Sub 4,Owen Group,SUP494,244.46,86.66,16.0,86x22x57,White,M,2025-04-16,True
+PRD3999,Dumbbell,Sports,Sports Sub 4,"Cantrell, Simmons and Bullock",SUP579,173.49,126.22,46.72,84x83x51,Black,M,2025-01-30,True
+PRD9002,Dumbbell,Sports,Sports Sub 3,Hall-Luna,SUP539,135.28,68.7,17.85,51x26x73,Brown,S,2025-07-27,True
+PRD1037,Tennis Racket,Sports,Sports Sub 3,Mccarthy LLC,SUP191,98.55,332.02,44.65,88x89x48,Black,One Size,2023-11-24,False
+PRD1947,Tennis Racket,Sports,Sports Sub 5,Brown and Sons,SUP197,161.18,148.78,21.3,36x18x26,White,M,2024-08-10,False
+PRD1386,Tennis Racket,Sports,Sports Sub 4,Schroeder-Harper,SUP863,266.51,86.44,10.24,23x27x77,Black,XXL,2024-08-21,True
+PRD9905,Tennis Racket,Sports,Sports Sub 2,Humphrey PLC,SUP450,247.75,443.89,48.29,87x95x59,Black,M,2024-06-28,True
+PRD1909,Basketball,Sports,Sports Sub 3,Horn-Martin,SUP818,156.17,387.6,14.34,74x29x94,Green,S,2024-09-17,True
+PRD5962,Basketball,Sports,Sports Sub 3,"Burnett, Ford and Horn",SUP407,286.29,465.41,0.94,18x93x32,Blue,XS,2025-08-09,True
+PRD5372,Basketball,Sports,Sports Sub 1,Dickson LLC,SUP169,152.22,435.07,9.83,12x81x12,White,XXL,2023-11-14,True
+PRD9139,Basketball,Sports,Sports Sub 5,Hernandez-Flores,SUP138,150.85,461.89,25.62,13x51x67,Gray,XL,2024-08-31,True
+PRD8767,Basketball,Sports,Sports Sub 4,Johnson PLC,SUP848,283.23,370.34,7.08,5x41x55,Red,L,2024-01-20,True
+PRD9026,Bicycle,Sports,Sports Sub 4,Patel-Thompson,SUP487,155.51,271.62,40.14,40x26x90,Green,M,2025-04-01,True
+PRD2384,Bicycle,Sports,Sports Sub 5,"Mcpherson, Bell and Bruce",SUP692,61.16,130.25,25.29,89x39x18,Gray,One Size,2023-11-12,True
+PRD8472,Bicycle,Sports,Sports Sub 5,Carter-Green,SUP811,63.71,447.62,34.55,61x7x56,Black,XXL,2023-09-04,True
+PRD2996,Bicycle,Sports,Sports Sub 1,Henderson-Page,SUP449,95.6,74.45,6.14,32x93x73,Red,M,2024-02-03,False
+PRD9587,Bicycle,Sports,Sports Sub 3,Tanner-Carey,SUP409,232.38,16.41,34.5,25x74x37,Brown,XL,2024-07-14,True
+PRD8203,Bicycle,Sports,Sports Sub 5,"Valentine, Cooley and Gentry",SUP590,139.53,266.85,4.51,75x20x13,Blue,L,2024-09-16,True
+PRD6100,Bicycle,Sports,Sports Sub 2,Owens-Medina,SUP798,227.56,470.58,47.75,16x46x38,Red,One Size,2025-07-20,False
+PRD2058,Bicycle,Sports,Sports Sub 1,Smith-Dunn,SUP456,185.64,197.92,32.73,99x25x81,Red,XXL,2024-09-05,True
+PRD7918,Fiction Novel,Books,Books Sub 2,"Mccoy, Parker and Fisher",SUP801,189.43,367.73,35.69,27x32x47,Blue,L,2024-07-10,True
+PRD7755,Fiction Novel,Books,Books Sub 4,Berger Ltd,SUP814,87.76,425.97,46.85,94x32x78,Gray,L,2024-06-16,True
+PRD4867,Fiction Novel,Books,Books Sub 2,Anderson Group,SUP806,180.44,236.8,1.34,87x12x82,Blue,One Size,2025-06-01,True
+PRD8286,Fiction Novel,Books,Books Sub 3,Schaefer PLC,SUP467,175.81,144.6,46.92,28x57x85,Black,One Size,2024-02-14,True
+PRD1657,Cookbook,Books,Books Sub 5,Lopez Inc,SUP965,101.82,25.64,24.76,62x75x90,Red,L,2024-10-20,True
+PRD8738,Cookbook,Books,Books Sub 2,Gonzales Group,SUP695,108.67,187.67,14.04,70x84x7,Black,M,2025-06-14,True
+PRD9211,Cookbook,Books,Books Sub 3,"Bradshaw, Miller and Hawkins",SUP199,279.62,60.01,49.7,32x88x37,Brown,S,2024-12-21,True
+PRD5008,Cookbook,Books,Books Sub 5,"Davis, Davis and Hall",SUP414,262.89,447.86,10.38,38x27x73,Black,XS,2024-09-24,True
+PRD7247,Cookbook,Books,Books Sub 1,Brown-Hanson,SUP467,54.05,266.58,17.85,13x79x90,Red,XS,2024-10-17,False
+PRD1739,Cookbook,Books,Books Sub 4,"Rogers, Smith and Hayden",SUP992,247.31,45.56,43.74,87x92x64,Red,XXL,2024-10-03,True
+PRD7532,Biography,Books,Books Sub 3,"Reed, Williams and Peterson",SUP991,65.87,338.66,0.33,23x63x89,Green,One Size,2025-03-30,True
+PRD3152,Biography,Books,Books Sub 1,Herrera and Sons,SUP598,184.67,188.35,17.25,48x28x26,Red,One Size,2025-03-21,True
+PRD9316,Biography,Books,Books Sub 2,Hogan-Smith,SUP623,55.48,13.38,36.98,76x94x90,Brown,S,2023-09-07,True
+PRD9363,Biography,Books,Books Sub 5,George-Fields,SUP602,234.08,182.1,35.24,87x44x34,Black,M,2024-01-20,False
+PRD4461,Technical Manual,Books,Books Sub 4,Hanson Inc,SUP517,179.06,228.65,34.26,60x70x88,Black,S,2024-01-19,True
+PRD4185,Technical Manual,Books,Books Sub 5,Miller Group,SUP465,129.03,46.54,8.24,49x8x20,Green,XS,2024-01-13,True
+PRD1572,Technical Manual,Books,Books Sub 5,Fritz-Warren,SUP722,160.81,194.68,31.49,91x14x81,Black,XS,2023-08-17,True
+PRD5078,Children Book,Books,Books Sub 5,"Rodriguez, Mccormick and Harris",SUP354,159.67,82.39,27.23,62x39x34,Blue,XXL,2024-02-11,True
+PRD4134,Children Book,Books,Books Sub 2,Shah Ltd,SUP896,204.25,11.2,0.71,48x28x10,Green,XXL,2024-05-23,True
+PRD8691,Children Book,Books,Books Sub 4,"Parker, Mcguire and Warner",SUP579,52.11,223.8,30.6,36x93x15,Red,S,2023-09-28,True
+PRD9364,Children Book,Books,Books Sub 3,Ray LLC,SUP595,290.58,421.57,34.33,55x100x41,Blue,XS,2024-06-04,True
+PRD5152,Children Book,Books,Books Sub 5,Hawkins LLC,SUP103,217.91,110.34,12.21,18x68x70,Blue,S,2025-06-12,True
+PRD2781,Children Book,Books,Books Sub 2,King-Miller,SUP288,211.89,256.86,45.57,85x89x33,White,S,2025-01-24,True
+PRD8239,Children Book,Books,Books Sub 5,Jackson and Sons,SUP945,26.62,87.07,21.61,78x26x98,Green,One Size,2025-03-21,True
+PRD9928,Magazine,Books,Books Sub 4,Baldwin and Sons,SUP881,95.07,297.29,17.04,87x81x36,Brown,One Size,2024-09-09,True
+PRD1142,Magazine,Books,Books Sub 3,Hall LLC,SUP859,258.8,19.62,2.47,6x97x57,Gray,M,2024-11-01,True
+PRD4448,Magazine,Books,Books Sub 3,Hancock PLC,SUP417,118.51,317.45,9.68,33x86x56,Gray,XS,2023-10-18,False
+PRD8337,Magazine,Books,Books Sub 5,"Freeman, Nichols and Carroll",SUP753,298.82,36.81,10.84,89x61x35,Red,XXL,2024-12-01,True
+PRD7853,Magazine,Books,Books Sub 1,Holden PLC,SUP628,94.21,29.54,12.85,83x81x72,White,L,2024-10-17,True
+PRD6720,Magazine,Books,Books Sub 4,Evans-Haas,SUP870,86.22,152.84,49.1,78x48x72,Blue,M,2024-02-27,True
+PRD6975,Action Figure,Toys,Toys Sub 5,Brown-Castillo,SUP570,272.13,238.68,45.66,23x12x81,Blue,S,2023-08-29,True
+PRD4293,Action Figure,Toys,Toys Sub 3,Gordon-Wise,SUP840,126.93,388.39,13.63,62x26x8,Black,XXL,2024-01-18,True
+PRD6260,Action Figure,Toys,Toys Sub 4,"Watson, Baker and Keith",SUP100,246.17,491.27,3.78,100x100x19,Brown,L,2024-10-19,True
+PRD5308,Board Game,Toys,Toys Sub 1,Sparks Group,SUP746,140.7,181.36,12.03,93x69x15,Black,S,2023-11-30,True
+PRD8928,Board Game,Toys,Toys Sub 4,"Villegas, Griffin and Evans",SUP754,69.02,493.09,17.31,56x14x80,White,XL,2025-01-02,True
+PRD5139,Board Game,Toys,Toys Sub 4,Graham-Howard,SUP722,164.59,83.04,46.66,6x68x60,Black,M,2023-10-23,True
+PRD6022,Board Game,Toys,Toys Sub 3,Myers-Ferrell,SUP506,52.54,70.46,14.62,71x19x84,Black,XL,2024-05-30,True
+PRD3136,Board Game,Toys,Toys Sub 4,Velasquez-Mitchell,SUP128,213.65,322.54,19.95,87x80x67,Brown,XXL,2024-04-11,True
+PRD2080,Puzzle,Toys,Toys Sub 2,"Rogers, Carlson and Parsons",SUP602,127.55,194.03,18.51,90x96x20,White,XS,2024-10-10,True
+PRD8200,Puzzle,Toys,Toys Sub 4,White-Scott,SUP581,136.32,315.67,45.51,6x61x73,Red,M,2025-06-23,False
+PRD2415,Puzzle,Toys,Toys Sub 2,Black-Miller,SUP464,148.24,325.65,35.26,67x24x47,Brown,XL,2023-12-27,True
+PRD8466,Puzzle,Toys,Toys Sub 5,Armstrong Inc,SUP870,193.33,462.41,48.26,85x67x23,Green,L,2023-12-24,True
+PRD7772,Puzzle,Toys,Toys Sub 5,"Doyle, Spencer and Moore",SUP994,138.37,108.39,10.86,19x10x100,Black,L,2025-08-12,True
+PRD4474,Puzzle,Toys,Toys Sub 1,"Ward, Sanders and Rivera",SUP759,25.44,290.25,38.83,54x59x99,Gray,One Size,2023-10-30,True
+PRD1740,Puzzle,Toys,Toys Sub 5,Thompson-Oconnor,SUP319,298.25,289.49,2.99,11x91x20,Green,One Size,2023-11-07,True
+PRD8299,Puzzle,Toys,Toys Sub 5,"Evans, Webb and Cooper",SUP244,137.72,116.2,24.47,68x58x33,Brown,S,2024-10-23,True
+PRD2377,Doll,Toys,Toys Sub 4,Silva-Gomez,SUP929,23.79,62.08,0.93,58x65x20,Black,One Size,2024-11-30,True
+PRD1748,Doll,Toys,Toys Sub 2,"Caldwell, Moore and Smith",SUP697,286.73,115.53,30.91,49x31x31,Brown,One Size,2024-10-24,True
+PRD4024,Doll,Toys,Toys Sub 3,"Lopez, Freeman and Evans",SUP226,135.02,103.89,34.13,36x58x51,Gray,XS,2023-10-09,True
+PRD5371,Doll,Toys,Toys Sub 3,"Phillips, Barnes and Williams",SUP151,182.64,176.82,2.05,70x84x27,White,L,2024-12-03,True
+PRD7983,Building Blocks,Toys,Toys Sub 1,"Parker, Turner and Carrillo",SUP713,233.78,171.39,35.61,17x8x6,Gray,XS,2024-08-01,True
+PRD9429,Building Blocks,Toys,Toys Sub 4,Nelson PLC,SUP251,215.51,483.96,40.36,82x84x68,Gray,S,2023-10-26,True
+PRD4622,Building Blocks,Toys,Toys Sub 1,Cook-Stein,SUP995,122.94,307.29,28.16,39x53x8,Gray,XXL,2024-10-27,True
+PRD6762,Building Blocks,Toys,Toys Sub 3,Brown and Sons,SUP202,218.24,259.42,29.19,76x82x41,White,S,2025-07-05,False
+PRD6779,Building Blocks,Toys,Toys Sub 2,"Steele, Johnson and Gilmore",SUP539,178.64,94.39,17.06,45x52x38,Gray,M,2024-04-30,True
+PRD3361,Remote Car,Toys,Toys Sub 4,Green LLC,SUP138,75.96,33.05,45.83,58x92x47,Gray,XL,2023-12-23,True
+PRD4925,Remote Car,Toys,Toys Sub 1,"Harris, Morrow and Cortez",SUP723,257.3,256.05,9.58,42x38x25,White,M,2024-07-01,True
+PRD3517,Remote Car,Toys,Toys Sub 1,"Lee, Gonzalez and Mitchell",SUP482,73.22,457.33,12.39,73x45x36,Blue,One Size,2024-06-01,False
+PRD7028,Lipstick,Beauty,Beauty Sub 5,Hughes-Zamora,SUP539,115.08,286.28,27.36,52x72x67,Black,M,2023-09-10,True
+PRD4608,Lipstick,Beauty,Beauty Sub 4,Dodson-Odom,SUP150,22.4,358.72,5.37,74x81x49,Green,One Size,2024-05-18,False
+PRD8515,Lipstick,Beauty,Beauty Sub 5,Robbins-Harvey,SUP996,245.03,473.98,27.2,55x51x40,Brown,M,2024-03-23,True
+PRD7885,Lipstick,Beauty,Beauty Sub 3,"Hubbard, Davis and Mendoza",SUP686,147.38,448.26,49.69,57x45x62,Blue,One Size,2023-11-27,True
+PRD5214,Lipstick,Beauty,Beauty Sub 5,Newton Ltd,SUP996,71.24,179.49,37.26,67x84x78,Black,XS,2024-06-27,False
+PRD5938,Lipstick,Beauty,Beauty Sub 1,James-Smith,SUP133,229.42,402.07,26.4,64x91x19,Brown,XXL,2025-02-14,True
+PRD4631,Foundation,Beauty,Beauty Sub 5,Morgan Ltd,SUP169,83.44,61.46,8.4,81x44x83,Green,S,2023-11-05,True
+PRD3325,Foundation,Beauty,Beauty Sub 2,Jones-Wallace,SUP697,162.8,30.35,26.26,61x23x47,Brown,L,2023-11-18,True
+PRD5437,Foundation,Beauty,Beauty Sub 5,"Irwin, Medina and Woodward",SUP939,50.62,255.94,3.71,87x53x91,Gray,XL,2023-08-21,False
+PRD3449,Perfume,Beauty,Beauty Sub 2,Mcguire-Mckinney,SUP665,69.27,496.96,35.68,40x23x94,White,XS,2025-08-03,True
+PRD2908,Perfume,Beauty,Beauty Sub 3,Wilkinson-Johnson,SUP809,164.79,417.16,5.19,47x34x79,Blue,One Size,2023-10-17,True
+PRD6092,Perfume,Beauty,Beauty Sub 4,Chavez PLC,SUP513,25.19,273.81,4.69,40x65x46,Black,XXL,2024-06-08,True
+PRD8873,Perfume,Beauty,Beauty Sub 5,"Warren, Allen and Reynolds",SUP785,268.14,174.84,10.38,13x13x33,Brown,XL,2024-10-02,True
+PRD9414,Perfume,Beauty,Beauty Sub 3,Davidson and Sons,SUP118,90.84,491.05,39.23,20x14x77,Brown,XXL,2024-11-29,True
+PRD8715,Perfume,Beauty,Beauty Sub 4,Guzman and Sons,SUP204,117.74,397.57,1.42,91x44x24,Red,S,2024-09-20,True
+PRD1357,Perfume,Beauty,Beauty Sub 1,"Colon, Meyer and West",SUP228,78.85,461.27,18.41,8x54x10,Red,XXL,2025-01-20,True
+PRD7183,Perfume,Beauty,Beauty Sub 3,Morris-Bolton,SUP530,196.67,92.03,2.65,51x95x70,Brown,M,2023-12-07,False
+PRD6366,Skincare Set,Beauty,Beauty Sub 3,Navarro-Higgins,SUP415,292.72,283.46,26.38,70x33x78,White,XXL,2024-11-12,True
+PRD4211,Skincare Set,Beauty,Beauty Sub 2,Stevens-Bray,SUP375,282.55,205.53,37.83,39x6x45,Red,M,2024-04-18,True
+PRD7713,Skincare Set,Beauty,Beauty Sub 5,"Pearson, Perry and Taylor",SUP396,94.19,123.98,33.23,64x31x91,Gray,M,2024-04-26,False
+PRD7824,Hair Dryer,Beauty,Beauty Sub 1,Lopez-Avery,SUP495,169.93,165.83,21.07,7x71x22,White,XL,2024-05-18,True
+PRD3284,Hair Dryer,Beauty,Beauty Sub 2,Pham-Schroeder,SUP112,285.51,166.61,15.0,31x55x98,Gray,One Size,2025-04-01,True
+PRD1747,Hair Dryer,Beauty,Beauty Sub 3,Bennett-Rivera,SUP825,169.21,402.92,15.92,23x68x53,Black,One Size,2024-10-14,True
+PRD1164,Hair Dryer,Beauty,Beauty Sub 5,Shaw-Hurst,SUP227,100.03,355.62,33.41,13x45x6,Black,S,2024-11-23,True
+PRD3081,Hair Dryer,Beauty,Beauty Sub 3,Morales Ltd,SUP837,196.28,225.87,40.4,48x11x41,Green,One Size,2025-02-10,True
+PRD3127,Hair Dryer,Beauty,Beauty Sub 4,Hardy LLC,SUP428,156.2,33.46,29.59,31x32x92,Blue,One Size,2023-09-06,False
+PRD9735,Nail Polish,Beauty,Beauty Sub 3,"Watkins, Cross and Levine",SUP569,251.6,283.76,31.17,10x39x44,Green,XS,2025-05-29,True
+PRD5007,Nail Polish,Beauty,Beauty Sub 3,"Davenport, Jones and Taylor",SUP888,240.73,314.22,27.33,81x95x62,Brown,L,2024-10-23,True
+PRD5383,Nail Polish,Beauty,Beauty Sub 3,Walker Group,SUP600,12.27,399.09,27.59,31x29x9,Red,XL,2023-10-18,True
+PRD3636,Nail Polish,Beauty,Beauty Sub 5,Fischer-Knight,SUP470,195.71,346.91,15.97,57x69x78,White,M,2024-07-30,True
+PRD9357,Nail Polish,Beauty,Beauty Sub 3,Harris-Watkins,SUP598,244.49,93.71,10.6,5x78x92,White,L,2024-10-03,True
+PRD8933,Nail Polish,Beauty,Beauty Sub 4,Richards LLC,SUP959,156.08,410.44,39.65,84x20x12,Blue,L,2023-10-01,True
+PRD5646,Car Tire,Automotive,Automotive Sub 3,Morris-Stephenson,SUP304,219.15,411.37,44.51,36x66x15,Green,M,2024-03-20,True
+PRD4064,Car Tire,Automotive,Automotive Sub 4,Carter LLC,SUP636,79.4,83.36,25.28,75x15x23,Brown,L,2024-09-29,True
+PRD5188,Car Tire,Automotive,Automotive Sub 5,Beck Group,SUP116,243.72,202.97,0.95,13x94x68,Green,S,2025-05-16,True
+PRD4816,Car Tire,Automotive,Automotive Sub 3,"Beard, Murphy and Henderson",SUP263,143.32,396.48,34.48,32x66x77,Blue,S,2024-10-19,True
+PRD3058,Engine Oil,Automotive,Automotive Sub 3,Martinez PLC,SUP183,233.49,271.29,49.23,37x52x82,Brown,XXL,2024-02-13,True
+PRD6727,Engine Oil,Automotive,Automotive Sub 2,Smith-Jimenez,SUP174,159.04,445.05,41.42,95x64x27,Red,XXL,2024-02-14,True
+PRD1980,Engine Oil,Automotive,Automotive Sub 4,"Craig, Henry and Mayer",SUP229,66.23,499.85,30.86,46x84x42,White,One Size,2025-04-10,True
+PRD8062,Engine Oil,Automotive,Automotive Sub 5,Martinez-Conway,SUP746,5.27,317.75,2.94,89x28x27,Brown,XXL,2024-03-24,True
+PRD1771,Car Cover,Automotive,Automotive Sub 5,Ferguson-Roach,SUP877,213.57,472.86,40.8,38x78x83,Red,XS,2023-08-17,True
+PRD1345,Car Cover,Automotive,Automotive Sub 4,"Diaz, Carlson and Howard",SUP383,183.27,375.69,0.52,97x35x44,Green,S,2025-04-10,True
+PRD4999,Car Cover,Automotive,Automotive Sub 4,Walton Inc,SUP298,53.33,153.28,16.4,70x18x20,Black,XS,2024-01-03,True
+PRD2450,Car Cover,Automotive,Automotive Sub 2,Charles LLC,SUP873,223.29,263.61,16.84,19x74x53,Red,XS,2023-08-16,True
+PRD7616,Car Cover,Automotive,Automotive Sub 2,Manning-Craig,SUP393,56.28,430.79,26.43,16x58x85,Red,S,2023-10-24,True
+PRD7334,Car Cover,Automotive,Automotive Sub 5,Davis LLC,SUP695,255.42,328.69,38.28,35x28x64,Black,L,2024-07-22,True
+PRD7592,Car Cover,Automotive,Automotive Sub 2,Waters Ltd,SUP300,245.03,227.71,31.01,97x29x41,Red,L,2024-10-29,True
+PRD7363,Car Cover,Automotive,Automotive Sub 5,Murphy-Pierce,SUP224,118.17,285.62,14.2,20x68x35,Red,M,2025-01-23,True
+PRD6211,GPS Device,Automotive,Automotive Sub 2,"Brown, Cain and Cox",SUP442,53.42,282.63,34.16,51x93x82,Blue,XXL,2024-08-08,True
+PRD2541,GPS Device,Automotive,Automotive Sub 1,"Sutton, Anderson and Aguilar",SUP248,209.39,385.67,30.58,13x22x17,Brown,S,2024-09-15,True
+PRD8750,GPS Device,Automotive,Automotive Sub 5,"King, Morton and Hall",SUP474,283.69,318.42,25.02,25x84x93,Red,XS,2025-08-09,True
+PRD7080,GPS Device,Automotive,Automotive Sub 5,Gordon and Sons,SUP532,110.08,217.31,1.92,30x92x82,Green,One Size,2024-06-12,True
+PRD8206,GPS Device,Automotive,Automotive Sub 3,"Hughes, Pitts and Cooper",SUP413,258.61,204.52,5.52,56x28x41,Green,XL,2024-09-19,True
+PRD4841,GPS Device,Automotive,Automotive Sub 3,Robinson-Simmons,SUP700,12.1,155.94,47.69,97x40x44,Green,XL,2025-04-03,True
+PRD1858,GPS Device,Automotive,Automotive Sub 2,Perez-Sharp,SUP315,255.78,465.97,48.42,53x82x94,Green,XS,2025-04-12,False
+PRD1844,Car Charger,Automotive,Automotive Sub 1,Mccoy-Riley,SUP444,228.15,330.1,25.45,68x65x62,Black,XS,2024-12-25,True
+PRD5902,Car Charger,Automotive,Automotive Sub 5,"Martin, Henderson and Vance",SUP790,179.22,42.11,38.07,14x58x29,Red,XXL,2023-11-10,True
+PRD2153,Car Charger,Automotive,Automotive Sub 3,Mcconnell and Sons,SUP785,285.81,450.12,18.02,35x11x78,Brown,M,2023-10-02,False
+PRD7281,Car Charger,Automotive,Automotive Sub 5,Scott and Sons,SUP163,292.42,150.99,33.44,39x22x37,White,XXL,2024-05-18,True
+PRD3512,Floor Mats,Automotive,Automotive Sub 1,Sloan Inc,SUP871,10.96,413.02,23.81,72x56x50,Green,XS,2024-10-25,True
+PRD4343,Floor Mats,Automotive,Automotive Sub 3,Crawford-Murphy,SUP405,100.98,206.68,18.37,100x15x57,Black,M,2025-04-02,True
+PRD6501,Floor Mats,Automotive,Automotive Sub 4,"Acevedo, Flores and Leonard",SUP250,103.73,484.39,17.62,62x62x62,Black,S,2023-11-03,True
